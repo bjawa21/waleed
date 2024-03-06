@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Personal Blog",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Hey there! Welcome my Personal Blog: Exploring Science, E-commerce, AI, and HSE. Join me as I share my thoughts and reflections on these cool topic",
+    "siteUrl": "https://waleedjabbar.netlify.app/",
+    "image": "/assets/pngtree-letter-w-logo-png-png-image_3045051-removebg-preview.png",
+    "iconimage": "/assets/pngtree-letter-w-logo-png-png-image_3045051-removebg-preview.png",
+    "twitterUsername": "@waleed_munsha"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
