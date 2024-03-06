@@ -58,6 +58,4 @@ In addition to my professional pursuits, I'm passionate about exploring new hori
 * Phone: +923101570478
 * Github: <https://github.com/kingwaleed1>
 
-Thank you for visiting my blog page. Join me on this journey of exploration, innovation, and growth in the exciting realms of Robotics and AI!
-
 <!--EndFragment-->
