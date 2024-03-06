@@ -13,10 +13,6 @@ const Footer = () => (
     <div className="container">
       <p>
        Built on Gatsby JS and Hosted on Netlify
-        
-          <RiHeart2Line />
-        </span>{" "}
-        by <Link to="/">Stackrole.com</Link>
       </p>
     </div>
   </footer>
