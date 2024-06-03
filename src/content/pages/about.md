@@ -3,59 +3,128 @@ template: about-page
 slug: /about
 title: Waleed Jabbar
 ---
-Dynamic STEM graduate with a First Class HSSC and Bachelor's in Science. Proficient in advanced mathematics and physics. Experienced in data analysis, ecommerce, and web development. Eager to learn artifical intelligence.
+<!--StartFragment-->
 
-**Education**
+Name: Waleed Jabbar !\[](Aspose.Words.8db72325-d5df-4f0d-a697-1164babfab52.001.png)Age: 29 years Nationa liy: Pakistan
 
-*Higher Secondary School Certificate (HSSC)*
 
-I earned a First Class HSSC Certificate from Islamabad Model College For Boys, specializing in pre-engineering. This rigorous program equipped me with a strong foundation in Mathematics, Physics, and Chemistry, laying the groundwork for my future engineering pursuits.
 
-*Bachelor in Science - Quaid-i-Azam University*
+Email: waleedmunsha@gmail.com Website: waleedjabbar.netlify.app Phone: +923101570478
 
-At Quaid-i-Azam University, I achieved a First Class Bachelor's degree in Science, focusing on advanced mathematics and physics. Here's a glimpse of the coursework that honed my skills:
+\# \*\*P ROFES S IONAL S UMMARY!\[](Aspose.Words.8db72325-d5df-4f0d-a697-1164babfab52.002.png)\*\*
 
-* **Mathematics**: Delved into complex mathematical concepts such as Complex Numbers, Matrices, Vector Spaces, Differential Equations, and The Laplace Transform. Additionally, mastered calculus topics including Limits, Derivatives, Integration Techniques, Definite Integrals, and Multivariable Functions.
-* **Physics**: Explored fundamental principles in physics covering topics like Composition of Forces, Kinematics, Orbital Motion, and Rotational Dynamics. Additionally, gained insights into semiconductor materials, particle dynamics, work & energy, and electric fields.
+Experienced  HSE  Supervisor  skilled  in  policy  implementation,  risk  assessment,  and safety training. Proven track record of ensuring compliance, conducting inspections, and maintaining accurate records. Promotes a safety-conscious culture and fosters effective communication for a secure work environment.
 
-**Work Experiences**
+\# \*\*EXP ERIENCE!\[](Aspose.Words.8db72325-d5df-4f0d-a697-1164babfab52.003.png)\*\*
 
-*CTO and Cofounder at Noodles.pk*
+\*\*Hawk International - Islamabad\*\* January 2023-  Currently \*HSE Supervisor\*
 
-As the CTO and Co-founder of Noodles.pk, I played a pivotal role in establishing Pakistan's premier ramen seller. My responsibilities included:
 
-* Overseeing a seamless transition from React.js to Shopify platform.
-* Development and design of noodles.pk website.
-* Implementation of SEO strategies for enhanced online visibility.
-* Management of backend development operations.
-* Leadership in ML and AI chat automation projects.
 
-*Data Analyst at Telemall Corporation*
+\- Developed  and  implemented  HSE  policies  and  procedures  for  safe  construction practices at Hassan Construction.
 
-At Telemall Corporation, I leveraged my analytical skills to extract actionable insights from data. My responsibilities included:
+\- Conducted regular inspections and risk assessments to identify and mitigate potential hazards on the construction site.
 
-* Gathering data from diverse sources using SQL queries and APIs.
-* Cleaning and preprocessing data to ensure accuracy and consistency.
-* Analyzing data to uncover valuable trends and insights.
-* Creation of reports and dashboards for effective communication.
-* Monitoring KPIs and collaborating on optimization strategies.
+\- Enforced  compliance  with  safety  regulations  and  guidelines  through  audits  and corrective actions.
 
-**Certifications**
+\- Maintained accurate HSE documentation to ensure compliance with legal and client requirements.
 
-* National Examination Board in Occupational Safety and Health (NEBOSH): International General Certificate in Occupational Health and Safety (Leicester, UK - April 2021)
 
-**Hobbies and Skills**
 
-In addition to my professional pursuits, I'm passionate about exploring new horizons and refining my skills. Here are some of my hobbies and skills:
+\*\*SK Engineering & Construction - Karbala, Iraq\*\* November 2021 - November 2022 \*HSE Supervisor\*
 
-* **Hobbies**: I enjoy hiking in the picturesque landscapes of Pakistan, immersing myself in nature's beauty and tranquility. Additionally, I indulge in creative writing, channeling my thoughts and ideas into captivating narratives.
-* **Skills**: Proficient in advanced mathematics and physics, I possess a keen analytical mind and problem-solving prowess. Moreover, my experience in data analysis, AI projects, and web development has equipped me with versatile skills to tackle complex challenges and drive innovation.
 
-**Contact**
 
-* Address: 17 Medina Town Alipur Islamabad
-* Email: [waleedmunsha@gmail.com](<>)
-* Phone: +923101570478
-* Github: <https://github.com/kingwaleed1>
+\- Oversee  the  implementation  of  existing  HSE  policies,  procedures,  and  protocols specific to chemical work in the refinery.
+
+\- Ensure that all personnel and contractors follow established guidelines to maintain a safe working environment.
+
+\- Conduct  regular  inspections  and  audits  to  verify  compliance  with  HSE  regulations, codes, and standards.
+
+\- Collaborate  with  cross-functional  teams  to  ensure  effective  implementation  of  HSE management systems.
+
+\- Maintain  accurate  and  up-to-date  HSE  records,  including  incident  reports, inspections, and training documentation.
+
+
+
+!\[](Aspose.Words.8db72325-d5df-4f0d-a697-1164babfab52.004.png) Assist in delivering HSE training programs to refinery personnel and contractors.
+
+
+
+!\[](Aspose.Words.8db72325-d5df-4f0d-a697-1164babfab52.005.png) Support  efforts  to  raise  awareness  about  safe  chemical  handling,  storage,  and
+
+
+
+disposal procedures.
+
+
+
+\- Participate  in  toolbox  talks,  safety  meetings,  and  workshops  to  promote  safety awareness and compliance.
+
+
+
+\*\*Naqvi & Siddiqui Arthitect and Engineers, Islamabad\*\* May -2018- October 2021 \*HSE Supervisor\*
+
+
+
+\- Implemented robust HSE protocols to ensure compliance and promote safety on the construction site.
+
+\- Conducted thorough risk assessments and implemented effective control measures.
+
+\- Provided comprehensive safety training to workers, contractors, and subcontractors.
+
+\- Enforced  strict  adherence  to  safety  regulations  through  regular  inspections  and audits.
+
+\- Investigated  incidents,  determined  root  causes,  and  implemented  preventive measures.
+
+\#### \*\*Lac General Contracting LLC, Islamabad\*\*
+
+March 2017 - April 2018 \*Document Controller\*
+
+
+
+\- Address vendor inquiries regarding shipment status.
+
+\- Collects all documentation for outbound freight and ensures all documents including receiving paperwork are filed appropriately.
+
+\- Schedules inbound and outbound freight to comply with warehouse operations and capacities in conjunction with the Warehouse Manager.
+
+\- Prepare and maintain necessary distribution documentations for management.
+
+\- Contact with cross-functional teams to resolve invoicing and shipping issues.
+
+\- Work with transportation team to coordinate pick-up and delivery activities.
+
+\# \*\*CERTIFICATE AND PROFES S IONAL QUALIFICATION!\[](Aspose.Words.8db72325-d5df-4f0d-a697-1164babfab52.006.png)\*\*
+
+\### \*\*International General Course In Health and Safety\*\* \*NEBOSH\*
+
+\#### \*\*Certificate in Quantity Surveying\*\*
+
+\*Construction Technical Training Institute, Islamabad.\*
+
+
+
+\` \`\*\*IT Professional Certification\*\*
+
+
+
+\*EZline Tech and Institute, Islamabad\*
+
+
+
+\[\*\*First Aid Tr](https://en.wikipedia.org/wiki/Hilal_Ahmar)\*\*aining \[\*Hilal Ahmar\*,](https://en.wikipedia.org/wiki/Hilal_Ahmar)\*\* Islamabad.
+
+\# \*\*EDUCATION!\[](Aspose.Words.8db72325-d5df-4f0d-a697-1164babfab52.007.png)\*\*
+
+\#### \*\*Bachelor in Science\*\*
+
+\*Quaid-i-Azam University, Islamabad\*
+
+\## \*\*HSSC\*\*
+
+\*FBISE, Islamabad.\*
+
+
 
 <!--EndFragment-->
