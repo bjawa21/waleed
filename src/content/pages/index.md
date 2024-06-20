@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Waleed Jabbar
 tagline: " Co-founder and CTO of Noodles.pk"
-featuredImage: /assets/1617869099432.jpg
+featuredImage: /assets/untitled-design-70-.png
 cta:
   ctaText: Know more
   ctaLink: /about
